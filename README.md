@@ -6,7 +6,7 @@ This repository contains a complete table showing the cumulative percentage of a
 
 - Expense ratios: 0.01% through 1.00%, in 0.01% increments
 - Time periods: 5 through 100 years, in 5-year increments
-- Formats: Excel (`.xlsx`) and CSV (`.csv`)
+- Formats: Excel (`.xlsx`), CSV (`.csv`), and a shaded PNG image (`.png`, regenerate with `python3 render_png.py`; requires matplotlib)
 
 ## Calculation
 
