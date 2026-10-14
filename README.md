@@ -2,6 +2,8 @@
 
 This repository contains a complete table showing the cumulative percentage of an ETF's value consumed by its expense ratio over time.
 
+![Cumulative ETF value lost to expense ratios, 0.01%–1.00% over 5–100 years](etf_fee_bite_table.png)
+
 ## Coverage
 
 - Expense ratios: 0.01% through 1.00%, in 0.01% increments
